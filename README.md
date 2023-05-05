@@ -9,7 +9,7 @@
  ### The Current Facts.
    I have completed 3 MIT projects, and each one increases in difficulty 
    since I'm encouraged to implement new types of style and standards of 
-   coding within my programs
+   coding within my programs.
    
     
  
