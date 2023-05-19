@@ -1,3 +1,8 @@
+
+
+ <img src="./IMG_2023.jpeg" width= '300'/>
+
+
 # Zzawadi.Projects.github.io
 This repository is one that houses a portfolio that's filled with all my accomplishments and progress throughout my Coding Journey. 
 
